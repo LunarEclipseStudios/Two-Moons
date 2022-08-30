@@ -29,6 +29,12 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ---
 
+### Website
+Feel free to check out our website!
+https://lunareclipse.studio
+
+---
+
 ### License
 
 Two Moons is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
