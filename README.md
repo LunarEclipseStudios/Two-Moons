@@ -31,5 +31,5 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 
 ### License
 
-Architect's Toolbox is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
+Two Moons is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
 [license file](https://github.com/LunarEclipseStudios/Architects-Toolbox/blob/main/LICENSE.txt).
