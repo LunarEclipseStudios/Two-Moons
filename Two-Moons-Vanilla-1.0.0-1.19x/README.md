@@ -12,9 +12,9 @@ Two Moons is a small addon resourcepack made for the soul purpose of adding two 
 
 #### Stable releases
 
-![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/two-moons)
+![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Two-Moons)
 
-The latest releases of Two Moons is published to our [GitHub release](https://github.com/LunarEclipseStudios/two-moons/releases) pages. 
+The latest releases of Two Moons is published to our [GitHub release](https://github.com/LunarEclipseStudios/Two-Moons/releases) pages. 
 Releases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
 
 ---
@@ -32,10 +32,3 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 ### Website
 Feel free to check out our website!
 https://lunareclipse.studio
-
----
-
-### License
-
-Two Moons is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
-[license file](https://github.com/LunarEclipseStudios/Architects-Toolbox/blob/main/LICENSE.txt).
