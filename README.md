@@ -1,4 +1,4 @@
-# ![LOGO](https://www.lunareclipse.studio/assets/img/two-moons/text.png)
+# ![LOGO](https://cdn.lunareclipse.studio/img/projects/two-moons/banner-text.webp)
 
 ## **Resource Pack for Minecraft: Java Edition**
 
